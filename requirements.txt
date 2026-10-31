@@ -1,0 +1,6 @@
+pytest
+python-dotenv
+openai
+uagents==0.25.5
+uagents-adapter[a2a-outbound]==0.6.2
+a2a-sdk>=0.2.11,<1.0
